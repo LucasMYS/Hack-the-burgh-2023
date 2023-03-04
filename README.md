@@ -1,1 +1,1 @@
-# Hack-the-burgh-2023
+Optiver challenge
