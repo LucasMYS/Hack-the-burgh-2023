@@ -21,5 +21,15 @@ Just run main.py in cloud9 to for it to work.
 
 Come to table 20 for more information or help.
 
+### Roles
+
+Team Leader - Nicholas (SubZero)
+
+Planning and research - Nicholas (SubZero)
+
+Programmers - Nicholas (SubZero), Aurora, Siren, Lucas, Luca (luck58)
+
+Debuggers - Siren, Lucas
+
 ![image](https://user-images.githubusercontent.com/72307706/223787561-8da72025-5331-4153-a5ae-3a7059a38290.png)
 ![image](https://user-images.githubusercontent.com/72307706/223788371-df3286d7-2902-4705-afcc-a30cd429820c.png)
