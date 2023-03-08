@@ -1,7 +1,7 @@
 ## Optibook challenge, HackTheBurgh 2023 (1st runner-up out of 15 teams)
 ### by Year1 - PhoenixRising (team04)
 
-### Information
+### Introduction
 
 This is our team's designs for an algorithmic trading bot for the Optibook challenge in HackTheBurgh 2023.
 
