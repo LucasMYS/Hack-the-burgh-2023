@@ -7,6 +7,8 @@ This is our team's designs for an algorithmic trading bot for the Optibook chall
 
 At one point early on, we were 2nd last out of 15 teams before the competition, but we managed to turnaround and during the actual competition, we managed to get 1st-runner up out of 15 teams.
 
+We were 1 out of 3 teams whose bots actually managed to make money.
+
 part1 is Pair Trading algorithm, where the algorithm aggressively buys ETFs and sells its component stocks, and vice versa if it can sell for higher than it can buy.
 
 part2 is an incomplete Market Maker algorithm, where the algorithm makes bid and ask orders at the same time to try increase liquidity.
