@@ -1,7 +1,7 @@
 ## Optibook challenge, HackTheBurgh 2023 (1st runner-up out of 15 teams)
 ### by Year1 - PhoenixRising (team04)
 
-###Information
+### Information
 
 This is our team's designs for an algorithmic trading bot for the Optibook challenge in HackTheBurgh 2023.
 
@@ -11,7 +11,7 @@ part2 is an incomplete Market Maker algorithm, where the algorithm makes bid and
 
 part2 remains incomplete due to time constraints and lethargy during the actual hackathon. In hindsight, it should have been relatively easy to fix the issues in the current version on GitHub, and get it working.
 
-###Instructions
+### Instructions
 
 In cloud9, under 'mybots' folder, include main.py, part1-refactored.py, part1-refactored1.py and reset_positions.py
 
