@@ -31,5 +31,7 @@ Planning and research - Nicholas (SubZero)
 
 Programming and debugging - Nicholas (SubZero), Aurora, Siren, Lucas, Luca (luck58)
 
+The detailed acknowledgements of each individual is detailed in the commits and the comments under the commits of every file.
+
 ![image](https://user-images.githubusercontent.com/72307706/223787561-8da72025-5331-4153-a5ae-3a7059a38290.png)
 ![image](https://user-images.githubusercontent.com/72307706/223788371-df3286d7-2902-4705-afcc-a30cd429820c.png)
