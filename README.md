@@ -1,5 +1,6 @@
 ## Optibook challenge, HackTheBurgh 2023 (1st runner-up)
 ### by Year1 - PhoenixRising (team04)
+![image](https://user-images.githubusercontent.com/72307706/223787561-8da72025-5331-4153-a5ae-3a7059a38290.png)
 
 In cloud9, under 'mybots' folder, include main.py, part1-refactored.py, part1-refactored1.py and reset_positions.py
 
