@@ -29,6 +29,8 @@ Team Leader - Nicholas (SubZero)
 
 Planning and research - Nicholas (SubZero)
 
+Setting up GitHub - Nicholas (SubZero), Lucas
+
 Programming and debugging - Nicholas (SubZero), Aurora, Siren, Lucas, Luca (luck58)
 
 The detailed acknowledgements of each individual is detailed in the commits and the comments under the commits of every file.
